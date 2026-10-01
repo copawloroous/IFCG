@@ -19,7 +19,7 @@
   Chinese Academy of Sciences, China
 
 🔬 **Research Interests**  
-Machine Learning · Computer Vision · Pattern Recognition
+Computer Vision · Machine Learning · Pattern Recognition
 
 🏛️ **Affiliation**
 
